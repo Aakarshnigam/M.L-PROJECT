@@ -1,9 +1,9 @@
 # M.L-PROJECT
 
-Abstract:
+# Abstract:
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. The client is Seoul Bike, which participates in bike share program in Seoul, South Korea. An accurate prediction of bike count is critical to the success of Seoul Bike share program. It is important to make rental bike available and accessible to the public at right time as it lessens the waiting time. Eventually providing a city with stable supply of motor bikes become a major concern. The final aim of this project is Prediction of bike count required at each hour for stable supply of rental bikes. The provided dataset contains the weather information which are the features (Temperature, Humidity, Wind speed, Visibility, Dew point, Solar radiation, Snowfall, Rainfall), the target is the number of bikes rented per hour and date information. The dataset presents the company's data between December the 1st of 2017 and finishes one year later.
 
-1.Problem Statement
+# 1.Problem Statement
 We have given a dataset with the Weather information in which the independent variables are Temperature, Humidity, Wind speed, Visibility, Dew point, Solar radiation, Snowfall, Rainfall and the Dependent variable is the number of bikes rented per hour and date information. The goal of the project is to predict number of rental bikes required at each hour for stable supply of rental bikes. We have given the following information in our dataset:
 
 • Date - Year-month-day
@@ -34,10 +34,10 @@ We have given a dataset with the Weather information in which the independent va
 
 • Functional Day – No Func(Non Functional Hours), Fun(Functional hours)
 
-2. Introduction
+# 2. Introduction
 We have given a dataset with the Weather information in which the independent variables are Temperature, Humidity, Wind speed, Visibility, Dew point, Solar radiation, Snowfall, Rainfall and the Dependent variable is the number of bikes rented per hour and date information. Our dataset has 8760 rows and 14 columns. The goal of the project is to predict number of rental bikes required at each hour for stable supply of rental bikes. which could us to get basic understanding of our dataset, finding outliers, finding correlation between the data, perform Data visualization , models implementation and finally getting conclusion.
 
-3. Steps Involved
+# 3. Steps Involved
 ● Data Summary After loading the dataset we performed this step to understand the data better in the dataset and creating various graphical representations to get some conclusion from it. This step is an important method for getting a grasp on the meaning of the content of a large collection of data. It basically simplify data for better understanding of our dataset.
 
 • Data Preprocessing First we check for missing values thankfully there are no null values in our dataset then we rename some column name for ease of understanding. Then we break the Date column into 3 different column Year, Month and Day.
