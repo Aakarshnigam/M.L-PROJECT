@@ -1,4 +1,4 @@
-# M.L-PROJECT
+# M.L-PROJECT  Bike-Linear-regression
 
 # Abstract:
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. The client is Seoul Bike, which participates in bike share program in Seoul, South Korea. An accurate prediction of bike count is critical to the success of Seoul Bike share program. It is important to make rental bike available and accessible to the public at right time as it lessens the waiting time. Eventually providing a city with stable supply of motor bikes become a major concern. The final aim of this project is Prediction of bike count required at each hour for stable supply of rental bikes. The provided dataset contains the weather information which are the features (Temperature, Humidity, Wind speed, Visibility, Dew point, Solar radiation, Snowfall, Rainfall), the target is the number of bikes rented per hour and date information. The dataset presents the company's data between December the 1st of 2017 and finishes one year later.
